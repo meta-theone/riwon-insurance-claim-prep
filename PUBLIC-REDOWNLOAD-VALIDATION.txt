@@ -1,0 +1,27 @@
+리원 보험금 청구 준비 v1.0.0 - 공개 재다운로드 검증
+
+검증일: 2026-08-03 KST
+공개 URL: https://github.com/meta-theone/riwon-insurance-claim-prep/releases/download/v1.0.0/ReOnePartners-InsuranceClaimPrep-Web-v1.0.0.zip
+파일 크기: 1,025,067 bytes
+
+원본 SHA-256
+D64F79C3C4011B2BEFC47FECF1877212480048E9FF9E1013FDADE204D168B1CB
+
+공개 재다운로드 SHA-256
+D64F79C3C4011B2BEFC47FECF1877212480048E9FF9E1013FDADE204D168B1CB
+
+공개 SHA256SUMS.txt 값
+D64F79C3C4011B2BEFC47FECF1877212480048E9FF9E1013FDADE204D168B1CB
+
+결과: 세 값 완전 일치 PASS
+
+압축 구조: 파일 9개, index.html 존재, source/tests/.git/secret/token/password 항목 0개
+
+공개 재다운로드본 실행 검증: PASS
+- 데스크톱 1200px: 3열, 가로 넘침 없음
+- 모바일 390px: 1열, 가로 넘침 없음
+- 체크리스트·문서목록 동작
+- 10분 기본 자동 초기화 로직 및 5초 축약 실행 테스트 통과
+- 사용자 확인창 승인 후에만 텍스트 다운로드 생성
+- 내보낸 파일 내용 검증
+- 외부 요청 0개
